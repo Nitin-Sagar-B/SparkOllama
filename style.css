@@ -1,0 +1,43 @@
+body {
+    background-color: #070707;
+}
+.stApp {
+    background-color: #070707;
+    padding: 20px;
+}
+.title {
+    font-family: 'Arial', sans-serif;
+    color: #f5f5f5;
+    text-align: center;
+}
+.chat-box {
+    background-color: #333333;
+    padding: 15px 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 10px;
+}
+.user-message {
+    background-color: #2196f3;
+    color: #ffffff;
+    border-radius: 10px;
+}
+.assistant-message {
+    background-color: #4caf50;
+    color: #ffffff;
+    border-radius: 10px;
+}
+.stButton > button {
+    background-color: #e91e63;
+    color: #ffffff;
+}
+.stChatInput {
+    color: #f5f5f5;
+}
+.stSelectbox {
+    background-color: #333333;
+    color: #f5f5f5;
+}
+.stMarkdown {
+    color: #f5f5f5;
+}
